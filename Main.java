@@ -7,7 +7,6 @@ class Main {
 		Node node5 = binarySearchTree.insert(4);
 		Node node2 = binarySearchTree.insert(5);
 
-
 		binarySearchTree.printInOrder();
 		System.out.println(binarySearchTree.getChildNodes(node14));
 		System.out.println(binarySearchTree.getChildNodes(node7));
